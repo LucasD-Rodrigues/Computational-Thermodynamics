@@ -1,0 +1,1 @@
+Computational thermodynamics - UFU 2025/2 , this repository inclues simulations of various thermodynamic phenomena such as ideal vs real gas comparison, heat capacity of solids and other relevant topics of study
