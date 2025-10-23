@@ -17,7 +17,7 @@ V = np.linspace(1,20,1000)
 a =  1.370
 b = 0.0387
 R = 8.314
-n = 5
+n = 0.5
 
 class Isotherms:
     def __init__(self,temperature):
